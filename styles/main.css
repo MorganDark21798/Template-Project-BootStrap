@@ -1,5 +1,6 @@
 body {
   padding-top: 50px;
+  padding-bottom: 50px;
 }
 .pp {
    border-radius: 50%;
@@ -9,4 +10,14 @@ body {
 }
 #title {
   vertical-align: middle;
+}
+Projects {
+  color: grey;
+}
+#a {
+  color: Black;
+}
+#color {
+  background-color: Black;
+  color: lightgreen;
 }
